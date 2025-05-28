@@ -1,0 +1,5 @@
+# Ignore backend env
+/backend/.env
+
+# Ignore frontend env
+/Fullstack/my-app/.env
